@@ -1,4 +1,5 @@
 # Animate_And_ Weather
+首先感谢 @_liet 的有关天气查询的教程(bilibili.com),这个练习项目中天气查询就是根据教程写的。项目中在动画页面中使用的图是从网上下载的
 
 ![image](https://github.com/Kimsswift/-/blob/master/AnimeAndCoreData1/a1.gif)
 ![image](https://github.com/Kimsswift/-/blob/master/AnimeAndCoreData1/a2.gif)
